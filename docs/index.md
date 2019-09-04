@@ -43,7 +43,7 @@
 <p> <img src="https://res.cloudinary.com/unuebhojude/image/upload/v1566537494/StartNg_Profile_Pic_jwpj8p.png">  </p> 
 				</div>
 <div>
-		<h1 <h1="" style="color:blue;">
+		<h1 style="color:blue;">
 				<center down=""> UNUEBHO JUDE EKATA </center> </h1><h3 style="color:blue;"> <center> 26b Ivbiye Street off New Lagos road, Benin City, Edo State <br> <a href="file:///C:/git/Ekata_HNG_PROJECTS/unubhojude@gmail.com"> unuebhojude@gmail.com </a> <br> 08076568004 <br> <a href="https://ng.linkedin.com/in/jude-unuebho-18788794"> Linkedln Profile: https://ng.linkedin.com/in/jude-unuebho-18788794 </a> </center>  </h3> 
 				</div>
 
