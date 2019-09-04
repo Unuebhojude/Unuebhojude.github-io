@@ -104,8 +104,7 @@
   
    <tbody><tr>
 		<td style="color:blue;">
-				MINISTRY OF BUDGET AND ECONOMIC PLANNING, EDO STATE GOVERNMENT <br> Position: Programme Analyst/Warrant Officer -  </td>
-		<td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> 
+				MINISTRY OF BUDGET AND ECONOMIC PLANNING, EDO STATE GOVERNMENT <br> Position: Programme Analyst/Warrant Officer -  </td> 
 		<td align="right"> July 2017 till date </td>
 	</tr>
    </tbody></table>
