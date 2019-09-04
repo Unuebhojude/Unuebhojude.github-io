@@ -118,7 +118,7 @@
   
    <tbody><tr>
 		<td style="color:blue;">  INFORMATION COMMUNICATION TECHNOLOGY AGENCY, EDO STATE GOVERNMENT <br> Position: Communications/Social Media/Data Analyst -  </td>
-		<td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> 	
+	 	
 		<td> May 2014- August 2014 </td>
 	</tr>
    </tbody></table>
@@ -133,7 +133,7 @@
   
    <tbody><tr>
 		<td style="color:blue;">  UYI TECHNICAL COMPANY, EDO STATE <br> Position:Sales Personnel (LG and Samsung Section)  -  </td>
-			<td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> 
+		 
 		<td> May 2014- August 2014 </td>
 	</tr>
    </tbody></table>
@@ -148,7 +148,7 @@
   
    <tbody><tr>
 		<td style="color:blue;">  COMMUNITY GRAMMAR SCHOOL, SASA, OYO STATE <br> Position: Assistant Secretary/Mathematics Teacher (NYSC) -  </td>
-			<td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> 
+	 
 		<td> March 2013- March 2014 </td>
 	</tr>
    </tbody></table>
@@ -203,13 +203,13 @@
 	<table>
      <tbody><tr>
 		<td>Edojobs Initiative, Edo State Government - </td>
-		<td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> 
+	 
 		<td>7th March 2017 - 17th April 2017</td>
 	</tr>
 	
 	<tr>
     <td>Edo AgriHub(EDAH), Edo State Government - </td>
-	<td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> 
+ 
     <td>12th January 2017 - 21st January 2017</td>
 	</tr>
 
