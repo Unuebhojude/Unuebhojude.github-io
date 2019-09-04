@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0044)file:///C:/git/Ekata_HNG_PROJECTS/Ekata.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>
 				body {background-color: white;}
