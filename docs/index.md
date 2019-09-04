@@ -231,7 +231,7 @@
 Name: <br> <input type="text" name="name" required autofocus minlength="4" placeholder="Your Name"><br>
 E-mail: <br> <input type="email" name="email" required placeholder="Your Email Here..."><br>
 Title: <br> <input type="text" name="subject of message" required placeholder="Subject of Message Here..."><br>
-Message: <br> <textarea name="message" rows="5" cols="40" value = "" minlength="20" required placeholder="Type your message here..."/></textarea><br>
+Message: <br> <input type="text" name="message" rows="5" cols="40" value = "" minlength="20" required placeholder="Type your message here..."><br>
 
 		<input type="submit" value="Submit">
 </form>
