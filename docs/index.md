@@ -233,7 +233,9 @@ E-mail: <br> <input type="email" name="email" required placeholder="Your Email H
 Title: <br> <input type="text" name="subject of message" required placeholder="Subject of Message Here..."><br>
 Message: <br> <textarea name="message" rows="5" cols="40" value = "" minlength="20" required placeholder="Type your message here..."/></textarea><br>
 
-		<input type="submit" value="Submit">
+		SUBMIT: <input type="submit" value="Submit">
+		
+		
 </form>
 	
 
